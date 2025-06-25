@@ -27,7 +27,6 @@ def analytics_by_category_tab():
             "Total":[rsp[category]['total'] for category in rsp],
             "Percentage": [rsp[category]['percentage'] for category in rsp]
         }
-        print(ui_data)
         df = pd.DataFrame(ui_data)
         df = df.set_index('Category')
         df.sort_values(by = 'Total',ascending=False,inplace=True)
