@@ -3,10 +3,10 @@
 This Expense Tracking System allows users to efficiently manage their personal or business expenses. Users can add and update expense entries, which are securely stored in a MySQL database. The system provides detailed analytics, enabling users to view their spending patterns over a selected time frame or by specific months, helping them make informed financial decisions.
 
 # Techstack
--Python
--Fast API for Backend Development
--Streamlit for frontend development
--MySQL Db for storing data
+- **Python/**
+- **Fast API for Backend Development/**
+- **Streamlit for frontend development/**
+- **MySQL Db for storing data/**
 
 
 ## Project Structure
