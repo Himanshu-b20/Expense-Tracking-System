@@ -1,0 +1,206 @@
+2025-06-24 15:18:19,338 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-24 15:19:04,571 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 15:22:56,905 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 16:17:54,047 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 16:18:02,924 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-02
+2025-06-24 16:21:04,927 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-02
+2025-06-24 16:35:42,933 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-02
+2025-06-24 16:36:20,384 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-02
+2025-06-24 16:36:32,744 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-02
+2025-06-24 16:39:49,946 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-02
+2025-06-24 16:40:02,547 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-02
+2025-06-24 16:48:06,703 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-02
+2025-06-24 16:48:13,599 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 16:49:41,196 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 16:50:45,540 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-02
+2025-06-24 16:50:48,364 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-14
+2025-06-24 16:50:52,349 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-28
+2025-06-24 16:59:07,779 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-28
+2025-06-24 16:59:14,113 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 16:59:40,855 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-07
+2025-06-24 17:00:38,511 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-07
+2025-06-24 17:00:38,541 - db_helper - INFO - Inside delete_expenses_by_date on date : 2024-08-07
+2025-06-24 17:03:09,729 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-07
+2025-06-24 17:03:12,599 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 17:03:16,254 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-07
+2025-06-24 17:03:47,612 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-07
+2025-06-24 17:03:47,639 - db_helper - INFO - Inside delete_expenses_by_date on date : 2024-08-07
+2025-06-24 17:03:47,651 - db_helper - INFO - Inside insert_expenses and data is : 2024-08-07, 20.0, Shopping, bought cocunet
+2025-06-24 17:03:47,667 - db_helper - INFO - Inside insert_expenses and data is : 2024-08-07, 30.0, Shopping, bought oil
+2025-06-24 17:03:47,673 - db_helper - INFO - Inside insert_expenses and data is : 2024-08-07, 40.0, Food, pakoda party
+2025-06-24 17:04:01,601 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-02
+2025-06-24 17:04:05,322 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-07
+2025-06-24 22:47:23,521 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-24 22:54:50,661 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-24 22:55:36,587 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-24 23:12:07,068 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:12:28,765 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:12:28,803 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-24 23:20:01,819 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:20:03,389 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:20:03,418 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-24 23:20:22,767 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:20:23,975 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:20:24,003 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-24 23:24:52,514 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:24:54,198 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:24:54,230 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-24 23:26:17,569 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:26:19,300 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:26:19,330 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-24 23:27:57,406 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:27:58,916 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:27:58,928 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-24 23:28:17,093 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:28:18,915 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:28:18,947 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-24 23:28:37,285 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:28:38,398 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:28:38,429 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-24 23:29:10,839 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:29:12,147 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-24 23:29:12,181 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 12:54:37,296 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 13:08:55,072 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 13:09:06,886 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 13:09:06,907 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 13:11:06,063 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 13:11:06,097 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 13:11:12,235 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 13:11:12,268 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 13:11:12,625 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 13:15:54,533 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 13:15:54,565 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 13:17:12,938 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 13:17:12,965 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 13:19:01,938 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 13:19:01,964 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 13:19:35,808 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 13:19:35,861 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:08:42,401 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:11:47,356 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:12:42,835 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:12:42,869 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:12:50,099 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:12:50,140 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:12:50,180 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:13:26,869 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:15:51,911 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:17:54,694 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:18:58,628 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:18:58,660 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:22:23,042 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:22:23,074 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:23:11,959 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:23:11,989 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:24:35,566 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:24:35,602 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:24:35,638 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:24:59,748 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:24:59,778 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:25:01,446 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:25:01,475 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:25:01,507 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:25:21,472 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:25:21,502 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:26:23,129 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:26:23,157 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:26:49,950 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:26:49,981 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:26:51,263 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:26:51,295 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:26:51,326 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:27:29,068 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:27:29,095 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:27:30,462 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:27:30,495 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:27:30,532 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:28:35,326 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:28:35,358 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:28:57,353 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:28:57,381 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:30:23,942 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:30:23,971 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:30:46,262 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:30:46,291 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:30:50,857 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:30:50,898 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:30:50,930 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:33:06,578 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:33:06,605 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:33:08,148 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:33:08,184 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:33:08,217 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:33:36,924 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:33:36,949 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:33:38,168 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:33:38,197 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:33:38,236 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:34:16,576 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:34:16,607 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:34:17,915 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:34:17,943 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:34:17,975 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:34:44,769 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:34:44,798 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:35:22,940 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:35:22,972 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:35:23,017 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:37:18,285 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:37:18,317 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:37:19,649 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:37:19,678 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:37:19,717 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:40:45,253 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:40:45,284 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:40:46,833 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:40:46,865 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:41:35,729 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:41:35,764 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:41:37,102 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:41:37,132 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:41:37,166 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:47:23,151 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:47:23,172 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:47:23,689 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:47:23,709 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:47:27,286 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:47:27,312 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:47:27,345 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:52:07,092 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:52:07,125 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:52:10,372 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:52:10,413 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:53:33,108 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:53:33,155 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:53:34,594 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:53:34,628 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:54:32,415 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:54:32,439 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:54:33,765 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:54:33,796 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:54:33,833 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:56:06,802 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:56:06,823 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:56:10,044 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:56:10,078 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:56:10,112 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:56:58,500 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:56:58,529 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:56:59,860 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:56:59,889 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-01, 2024-08-05
+2025-06-25 14:56:59,925 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:57:02,934 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:57:02,963 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:57:11,282 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:57:11,313 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:57:12,225 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:57:12,255 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-08-21, 2024-08-30
+2025-06-25 14:57:12,290 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:57:29,968 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:57:29,998 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:57:35,823 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:57:35,851 - db_helper - INFO - Inside fetch_expense_summary_month between dates
+2025-06-25 14:57:36,792 - db_helper - INFO - Inside fetch_expenses_by_date on date : 2024-08-01
+2025-06-25 14:57:36,819 - db_helper - INFO - Inside fetch_expense_summary between dates: 2024-09-01, 2024-09-12
+2025-06-25 14:57:36,856 - db_helper - INFO - Inside fetch_expense_summary_month between dates
