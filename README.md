@@ -8,6 +8,9 @@ This Expense Tracking System allows users to efficiently manage their personal o
 - **Streamlit for frontend development**
 - **MySQL Db for storing data**
 
+  ![image](https://github.com/user-attachments/assets/7e430087-ba85-493e-90d2-d053a0cf8527)
+
+
 
 ## Project Structure
 
